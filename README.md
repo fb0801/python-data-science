@@ -22,3 +22,11 @@ https://www.toptal.com/developers/gitignore/
 
 
 https://pypi.org/project/yfinance/
+
+https://seaborn.pydata.org/installing.html
+
+https://pypi.org/project/scikit-learn/
+
+https://shap.readthedocs.io/en/latest/
+
+https://pypi.org/project/rdkit/
